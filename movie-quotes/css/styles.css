@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(25, 71, 71);
+    color: floralwhite;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.peter {
+    color: palegreen;
+    
+}
+
+.dana {
+    color: salmon;
+}
+
+.mayor {
+    color: skyblue;
+}
+
+.ray {
+    color: rgb(255, 224, 83);
+}
+
+.egon {
+    color: rgb(182, 148, 216);
+}
+
+.winston {
+    color: pink;
+}
+
+.action {
+    color: silver;
+}
+
+.header {
+    color: lightskyblue;
+}
