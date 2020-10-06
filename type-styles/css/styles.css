@@ -1,0 +1,141 @@
+html {
+    font-family: 'Crimson Text', serif;
+    font-size: 16pt;
+} 
+
+  body {
+    margin: 10%;
+}
+
+h1 {
+    color: black;
+    text-transform: capitalize;
+    text-indent: -1rem;
+}
+
+.weighttitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: 550;
+    text-indent: -.75rem;
+    color: lightcoral;
+}
+.weightsubtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    text-indent: -.5rem;
+    color: lightcoral;
+}
+
+.styletitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: 550;
+    text-indent: -.75rem;
+    color: lightseagreen;
+}
+.stylesubtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    text-indent: -.5rem;
+    color: lightseagreen;
+}
+
+.spacetitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: 550;
+    text-indent: -.75rem;
+    color: rgb(255, 136, 0);
+}
+.spacesubtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    text-indent: -.5rem;
+    color: rgb(255, 136, 0);
+}
+
+.transformtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: 550;
+    text-indent: -.75rem;
+    color: palegreen;
+}
+.transformsubtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    text-indent: -.5rem;
+    color: palegreen;
+}
+
+.decortitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16pt;
+    font-weight: 550;
+    text-indent: -.75rem;
+    color: rgb(238, 182, 0);
+}
+.decorsubtitle {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+    text-indent: -.5rem;
+    color: palegreen;
+    color: rgb(238, 182, 0);
+}
+
+.weight200 {
+    font-weight: 200;
+}
+
+.weight600 {
+    font-weight: 600;
+}
+
+.weight900 {
+    font-weight: 900;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.spacing1 {
+    letter-spacing: .1em;
+}
+
+.spacing2 {
+    letter-spacing: -.05em;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.linethrough {
+    text-decoration: line-through;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.wavy {
+    text-decoration: underline wavy;
+}
+
+.dotted {
+    text-decoration: underline dotted;
+}
+
+.overline {
+    text-decoration: overline double;
+}
