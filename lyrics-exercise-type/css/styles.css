@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(134, 192, 192);
+    color: floralwhite;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 14pt;
+    font-weight: 400;
+}
+
+.lyrics {
+    color: linen;
+    text-align: center;
+}
+
+.song {
+    text-align: center;
+    font-size: 200pt;
+    font-family:'Grandstander', cursive;
+    font-weight: 600;
+    color: rgb(250, 182, 150);
+    padding: 5px 0 0 5px; 
+    height: 50px; 
+    position:fixed;
+    left:.25em;
+    top:-.25em;
+    opacity: 0.75;
+}
+
+.artist {
+    text-align: center;
+    font-size: 50pt;
+    font-family:'Grandstander', cursive;
+    font-weight: 100; 
+    color: peachpuff;
+    line-height: 0mm;
+    padding: 5px 0 0 5px; 
+    height: 50px; 
+    position:fixed;
+    left:1em;
+    top:.1em;
+    opacity: 0.8;
+}
+
+.art {
+    text-align: center;
+    font-size: 48pt;
+    font-family:font-family: 'Grandstander', cursive;
+    font-weight: 100; 
+}
+
+.verse {
+    font-style: italic;
+    color: peachpuff;
+}
