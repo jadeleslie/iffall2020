@@ -1,0 +1,74 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    max-width: 960px;
+    min-width: 320px;
+    margin: auto;
+    font-size: 16px;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: rgb(15, 48, 68);
+    color: papayawhip;
+    line-height: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: rgb(255, 231, 153);
+}
+
+
+h2 {
+    color: rgb(255, 231, 153);
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 300;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+@media (min-width: 640px) {
+    .half-box {
+        width: 50%;
+    }
+}
+
+@media (max-width: 640px) {
+    h1 
+    {font-size: 36px; 
+    }
+    h3 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+}
+
+@media (max-width: 540px) {
+    body {
+        background-color: rgb(14, 40, 44);
+    }
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    list-style-type: none;
+}
+
+.link {
+    color: rgb(255, 231, 153);
+}
